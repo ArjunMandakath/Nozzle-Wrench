@@ -1,0 +1,8 @@
+
+*.FCBak
+*.FCStd.*
+!*.FCStd
+
+*.tmp.driveupload/
+
+*Deprecated/
